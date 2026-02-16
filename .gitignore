@@ -1,0 +1,44 @@
+# Browser Extension Build Files
+*.zip
+*.crx
+*.xpi
+
+# Development Files
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node modules (if you add build tools later)
+node_modules/
+package-lock.json
+
+# FFmpeg files
+ffmpeg/
+ffmpeg.zip
+
+# Generated videos
+*.mp4
+*.avi
+*.mov
+
+# Frame folders
+frames_*/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS Files
+.DS_Store
+desktop.ini

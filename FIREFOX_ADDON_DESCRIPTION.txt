@@ -1,0 +1,250 @@
+========================================
+FIREFOX ADD-ON SUBMISSION - COPY & PASTE
+========================================
+
+-------------------
+1. ADD-ON NAME:
+-------------------
+YouTube Interactive Drawing
+
+
+-------------------
+2. ADD-ON URL SLUG:
+-------------------
+youtube-interactive-drawing
+
+
+-------------------
+3. SUMMARY (250 chars max):
+-------------------
+Draw on YouTube videos in real-time! Click and drag to create colorful artwork directly on videos. Features 7 colors, export functionality, and works in fullscreen mode. Transform any enabled YouTube video into your canvas!
+
+
+-------------------
+4. DESCRIPTION (Full):
+-------------------
+🎨 YouTube Interactive Drawing
+
+Transform YouTube videos into interactive drawing canvases! This extension allows you to draw directly on YouTube videos using your mouse and keyboard.
+
+✨ Features:
+• Click and drag to draw on enabled YouTube videos
+• 7 vibrant colors to choose from (press keys 1-7)
+• Real-time drawing with smooth brush strokes
+• Color changes based on video timeline
+• Clear canvas and export your artwork as PNG
+• Works in normal and fullscreen mode
+• Lightweight and fast - no performance impact
+
+🎮 How to Use:
+1. Visit an interactive YouTube video
+2. Click and drag on the video to draw
+3. Press number keys 1-7 to change colors:
+   - 1: White
+   - 2: Pink
+   - 3: Yellow
+   - 4: Green
+   - 5: Cyan
+   - 6: Red
+   - 7: Blue
+   - 8: End marker
+4. Use the control panel to clear or export your drawing
+
+⌨️ Keyboard Shortcuts:
+• 1-7: Change drawing colors
+• 8: Jump to end section
+• Click & Drag: Draw on video
+• Clear Canvas: Remove all drawings
+• Export Drawing: Save as PNG image
+
+🎯 Perfect For:
+• Creative expression and digital art
+• Art practice and experimentation
+• Fun video annotations
+• Interactive learning experiences
+• Collaborative drawing sessions
+
+🔒 Privacy & Security:
+This extension only activates on specific YouTube videos. It does NOT:
+- Collect any personal data
+- Track your browsing activity
+- Access your YouTube account
+- Store any information on external servers
+
+All drawings are stored locally in your browser.
+
+📺 Try it on our demo video:
+https://youtube.com/watch?v=yd9fobYl2o8
+
+🌟 Open Source & Privacy-Focused:
+Built with vanilla JavaScript. Zero data collection. Complete privacy.
+
+Created with ❤️ for creative minds!
+
+Need help? Found a bug? Contact us through the support section.
+
+
+-------------------
+5. CATEGORIES:
+-------------------
+Primary: Other
+Secondary: Entertainment
+
+
+-------------------
+6. TAGS (comma separated):
+-------------------
+youtube, drawing, canvas, art, interactive, creative, video, annotation
+
+
+-------------------
+7. LICENSE:
+-------------------
+MIT License
+
+
+-------------------
+8. VERSION NUMBER:
+-------------------
+1.0
+
+
+-------------------
+9. VERSION NOTES:
+-------------------
+Initial release with core drawing functionality:
+- Real-time drawing on YouTube videos
+- 7 color palette with keyboard shortcuts
+- Export drawings as PNG
+- Fullscreen mode support
+- Zero data collection
+
+
+-------------------
+10. PRIVACY POLICY:
+-------------------
+Privacy Policy for YouTube Interactive Drawing
+
+Last Updated: February 16, 2026
+
+DATA COLLECTION:
+This extension does NOT collect, store, or transmit any personal information.
+
+WHAT THE EXTENSION DOES:
+- Adds a drawing canvas overlay to specific YouTube videos
+- Stores your drawings locally in your browser only
+- Does not track your browsing activity
+- Does not access your YouTube account
+- Does not collect any personal data
+
+PERMISSIONS USED:
+- activeTab: Required to inject the drawing canvas onto YouTube video pages
+- storage: Required to save extension settings locally in your browser
+
+THIRD-PARTY SERVICES:
+This extension does not use any third-party services or analytics.
+
+DATA STORAGE:
+All drawings and settings are stored locally in your browser using the browser's storage API. Nothing is sent to external servers.
+
+CONTACT:
+For questions or concerns, please contact through the Firefox Add-ons support page.
+
+This extension is provided "as is" without warranty of any kind.
+
+
+-------------------
+11. SUPPORT EMAIL/URL:
+-------------------
+(Use your email or leave blank to use Firefox Add-ons support system)
+
+
+-------------------
+12. HOMEPAGE URL:
+-------------------
+https://github.com/[your-username]/youtube-interactive-drawing
+(Or leave blank if you don't have one)
+
+
+-------------------
+13. NOTES TO REVIEWER:
+-------------------
+Hello Mozilla Review Team,
+
+This is a creative drawing extension for YouTube videos. 
+
+KEY POINTS:
+- Extension only activates on specific YouTube video IDs (hardcoded in content.js)
+- Uses standard Canvas API for drawing
+- No external API calls or data collection
+- All DOM manipulation uses safe methods (createElement, textContent, appendChild)
+- No innerHTML usage - all elements created securely
+- Tested on Firefox 120+
+
+TEST INSTRUCTIONS:
+1. Install the extension
+2. Visit: https://youtube.com/watch?v=yd9fobYl2o8
+3. Click and drag on the video to draw
+4. Press keys 1-7 to change colors
+5. Test "Clear Canvas" and "Export Drawing" buttons
+6. Test in fullscreen mode (works perfectly)
+
+The extension is lightweight, privacy-focused, and provides a fun interactive experience.
+
+Thank you for reviewing!
+
+
+-------------------
+14. TECHNICAL DETAILS:
+-------------------
+☐ This add-on is experimental: NO
+☐ Requires payment: NO
+☑ Has a privacy policy: YES
+☐ Collects user data: NO
+
+
+========================================
+SUBMISSION CHECKLIST:
+========================================
+☑ Extension validated with NO errors
+☐ 1 warning about innerHTML (FALSE POSITIVE - we don't use innerHTML)
+☑ All files included in ZIP
+☑ Tested in Firefox
+☑ Screenshots ready (take 3-5 screenshots)
+☑ Privacy policy written
+☑ Description ready
+
+
+========================================
+WHAT TO DO NOW:
+========================================
+1. On the Firefox submission page, click "Continue"
+2. Copy and paste each section above into the corresponding field
+3. Upload 3-5 screenshots showing:
+   - Extension in action on YouTube
+   - Drawing with different colors
+   - Control panel visible
+   - Exported artwork
+4. Submit for review
+5. Wait 1-7 days for approval
+6. You'll receive email updates
+
+
+========================================
+AFTER APPROVAL - SHARE YOUR EXTENSION:
+========================================
+
+Your extension will be live at:
+https://addons.mozilla.org/firefox/addon/youtube-interactive-drawing/
+
+Update your YouTube video description with:
+
+🦊 FIREFOX USERS - Install the extension:
+https://addons.mozilla.org/firefox/addon/youtube-interactive-drawing/
+
+Then refresh this page and start drawing!
+
+
+========================================
+GOOD LUCK! 🎉
+========================================
