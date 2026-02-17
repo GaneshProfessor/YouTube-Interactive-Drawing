@@ -3,8 +3,9 @@
 
 // Target video IDs that should have drawing enabled
 const INTERACTIVE_VIDEO_IDS = [
-    'yd9fobYl2o8',  // Your blank canvas video
-    'hwovImkeZFU'   // Your first video
+    'xWpNWQt6KNM',  // New video with music (100 seconds)
+    'yd9fobYl2o8',  // Original blank canvas video
+    'hwovImkeZFU'   // First test video
 ];
 
 let canvas = null;

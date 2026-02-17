@@ -53,10 +53,14 @@ https://addons.mozilla.org/firefox/addon/youtube-interactive-drawing/
 
 ## 📺 Demo Video
 
-Try it on our blank canvas video:
+Try it on our interactive canvas with music:
 ```
-https://youtube.com/watch?v=yd9fobYl2o8
+https://youtube.com/watch?v=xWpNWQt6KNM
 ```
+
+Other test videos:
+- https://youtube.com/watch?v=yd9fobYl2o8 (Original blank canvas)
+- https://youtube.com/watch?v=hwovImkeZFU (First test video)
 
 ## 🛠️ Technical Details
 
